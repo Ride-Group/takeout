@@ -1,0 +1,10 @@
+{
+  "name": "lm-mini-pro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "vant-weapp": "^0.3.2"
+  },
+  "devDependencies": {}
+}
